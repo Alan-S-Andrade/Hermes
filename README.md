@@ -64,8 +64,9 @@ $ telnet [ip] [port]
 └── tags                    # ctags
 ```
 
-### Contributor
+### Contributors
 
+* [Alan-S-Andrade](https://github.com/Alan-S-Andrade)
 * [jamsman94](https://github.com/jamsman94)
 * [Horizon-Blue](https://github.com/Horizon-Blue)
 * [Rijn](https://github.com/rijn)
